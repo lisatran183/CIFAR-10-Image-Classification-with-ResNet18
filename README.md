@@ -95,7 +95,7 @@ This project demonstrates transfer learning by fine-tuning a ResNet18 model (pre
 
 ## Training Curves
 
-<img width="562" height="356" alt="Screenshot 2025-11-22 at 3 12 56 PM" src="https://github.com/user-attachments/assets/a23b2981-2673-4954-aafc-a8e2097e9d65" />
+<img width="829" height="307" alt="Screenshot 2025-11-24 at 10 45 12 AM" src="https://github.com/user-attachments/assets/fca7d8aa-1f8a-40bc-94ad-7fe5d2ed603f" />
 
 ## Author
 Lisa Tran
